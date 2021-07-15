@@ -4,6 +4,10 @@ a {
 a:hover{ 
   color:green;
 }
+header{
+  display: flex;
+  flex: auto;
+}
 body{
   display: flex;
   flex-direction: column;
@@ -19,5 +23,9 @@ aside{
 article{
   display: flex;
   flex: 3;
+}
+footer{
+  display: flex;
+  flex: auto;
 }
 
