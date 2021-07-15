@@ -1,1 +1,6 @@
-a:hover{ color:#00FF00}
+a {
+  color: red;
+}
+a:hover{ 
+  color:green;
+}
