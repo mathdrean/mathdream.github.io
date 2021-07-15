@@ -4,3 +4,25 @@ a {
 a:hover{ 
   color:green;
 }
+.header {
+  display: flex
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+.body{
+  display: flex;
+  flex-direction: column;
+}
+.main{
+  display: flex;
+  flex: auto;
+}
+.aside{
+  display: flex;
+  flex: 1;
+}
+.article{
+  display: flex;
+  flex: 3;
+}
