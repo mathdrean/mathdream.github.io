@@ -11,6 +11,7 @@ body{
 main{
   display: flex;
   align-items: stretch;
+  align-content:space-around
 }
 aside{
   display: flex;
