@@ -15,12 +15,10 @@ main{
 aside{
   display: flex;
   flex: 1;
-  color:green;
 }
 article{
   display: flex;
   flex: 3;
-  color:blue;
 }
 header{
   display: flex;
