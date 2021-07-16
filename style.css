@@ -14,10 +14,12 @@ main{
 }
 aside{
   display: flex;
+  align-items: stretch;
   flex: 1;
 }
 article{
   display: flex;
+  align-items: stretch;
   flex: 3;
 }
 header{
