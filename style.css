@@ -11,7 +11,7 @@ body{
 main{
   display: flex;
   align-items: stretch;
-  align-content:space-around
+  align-content:space-around；
 }
 aside{
   display: flex;
@@ -19,6 +19,7 @@ aside{
 }
 article{
   display: flex;
+  align-content:space-around；
   flex: 3;
 }
 header{
