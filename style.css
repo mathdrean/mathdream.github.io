@@ -10,7 +10,6 @@ body{
 }
 main{
   display: flex;
-  align-items: center;
   flex: auto;
 }
 aside{
@@ -19,6 +18,7 @@ aside{
 }
 article{
   display: flex;
+  align-items: center;
   flex: 3;
 }
 header{
