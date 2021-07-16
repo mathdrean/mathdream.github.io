@@ -14,20 +14,15 @@ main{
   align-content:space-around;
 }
 aside{
-  display: flex;
   flex: 1;
 }
 article{
-  display: flex;
-  align-content:space-around;
   flex: 3;
 }
 header{
-  display: flex;
   justify-content: center;
 }
 footer{
-  display: flex;
   justify-content: center;
   align-items: flex-end;
 }
