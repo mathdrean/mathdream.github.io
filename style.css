@@ -20,6 +20,7 @@ aside{
 article{
   display: flex;
   align-items: stretch;
+  align-content: space-around 
   flex: 3;
 }
 header{
