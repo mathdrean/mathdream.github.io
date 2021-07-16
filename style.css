@@ -6,7 +6,6 @@ a:hover{
 }
 header{
   display: flex;
-  justify-content: center;
 }
 body{
   display: flex;
@@ -25,7 +24,7 @@ article{
   flex: 3;
 }
 footer{
-  justify-content: center;
+  display: flex;
   align-items: flex-end;
 }
 
