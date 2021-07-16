@@ -10,7 +10,7 @@ body{
 }
 main{
   display: flex;
-  align-items: stretch
+  align-items: flex-start
 }
 aside{
   display: flex;
