@@ -17,10 +17,13 @@ main{
 }
 aside{
   display: flex;
+  align-items: center;
   flex: 1;
 }
 article{
   display: flex;
+  justify-content: center;
+  align-items: center;
   flex: 3;
 }
 footer{
