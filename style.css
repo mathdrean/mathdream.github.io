@@ -11,8 +11,6 @@ body{
 main{
   display: flex;
   flex: auto;
-  justify-content: center;
-  flex: 4;
 }
 aside{
   display: flex;
@@ -25,12 +23,10 @@ article{
 header{
   display: flex;
   justify-content: center;
-  flex: 1;
 }
 footer{
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  flex: 1;
 }
 
