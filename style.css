@@ -4,12 +4,12 @@ a {
 a:hover{ 
   color:green;
 }
-header{
-  display: flex;
-}
 body{
   display: flex;
   flex-direction: column;
+}
+header{
+  display: flex;
 }
 main{
   display: flex;
@@ -17,13 +17,10 @@ main{
 }
 aside{
   display: flex;
-  align-items: center;
   flex: 1;
 }
 article{
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex: 3;
 }
 footer{
