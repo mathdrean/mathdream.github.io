@@ -10,6 +10,8 @@ body{
 }
 main{
   display: flex;
+  justify-content: center;
+  align-items: center;
   flex: auto;
 }
 aside{
@@ -22,9 +24,11 @@ article{
 }
 header{
   display: flex;
+  justify-content: center;
 }
 footer{
   display: flex;
+  justify-content: center;
   align-items: flex-end;
 }
 
