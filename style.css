@@ -15,9 +15,12 @@ main{
 aside{
   display: flex;
   flex: 1;
+  align-items: center;
 }
 article{
   display: flex;
+  justify-content: center;
+  align-items: center
   flex: 3;
 }
 header{
