@@ -14,9 +14,11 @@ main{
   align-content:space-around;
 }
 aside{
+  background-color:red;
   flex: 1;
 }
 article{
+  background-color:blue;
   flex: 3;
 }
 header{
