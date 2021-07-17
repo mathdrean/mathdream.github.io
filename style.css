@@ -19,9 +19,6 @@ aside{
 article{
   flex: 3;
 }
-header{
-  justify-content: center;
-}
 footer{
   justify-content: center;
   align-items: flex-end;
